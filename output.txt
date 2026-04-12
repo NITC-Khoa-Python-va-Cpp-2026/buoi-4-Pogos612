@@ -1,0 +1,6 @@
+We can read lines individually or all at once.
+Using with open is safer than open().
+Good file handling is important in programming.
+Next, we learn how to read data from files.
+We also practice writing data to files.
+Hoàng Hà Giang
